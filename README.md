@@ -1,2 +1,2 @@
 # ds_module2_VBA
-HW 2 VBA Challenge
+This VBA script analyzes stock data from a spreadsheet, calculating quarterly changes, percentage changes, and total volume for each ticker. It also highlights the greatest percentage increase, decrease, and total volume for better insights.
